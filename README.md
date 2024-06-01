@@ -19,7 +19,10 @@ This Go program changes the desktop wallpaper on a Windows machine without requi
 2. **Build the Program**:
    ```sh
    go build change_wallpaper.go
-   
+
+## Usage 2 (EASIER AND FASTER)
+download directly the change_wallpaper.exe file (you must insert the image in the same diretory with the name wallpaper.jpeg)
+
 
 ## How to use and create a automatic USB executions
 
